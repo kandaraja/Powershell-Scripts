@@ -1,0 +1,8 @@
+TargetServer,Description,Region,TargetIP,Environment,MaintenanceWindow,SourceServer,SourceServerFQDN,Zone,SubscriptionID,ResourceGroupName,LocationName,MigrationVMname,VMSize
+XC-S-ZW08534,PCS2  Application Web server,Europe,10.12.2.36,PROD,W23,de-s-0206043,de-s-0206043.xe.abb.com,Intranet,69ef89a0-6365-4a18-a145-de6abb8b5ac5,ISEP01-RG-C-9AAG7272,northeurope,MDMR2,Standard_D4_V3
+XC-S-ZW08578,Leonardo DB Server,Europe,10.12.12.131,PROD,W23,CZBRQ-S-APL0186,CZBRQ-S-APL0186.xe.abb.com,Intranet,69ef89a0-6365-4a18-a145-de6abb8b5ac5,ISEP01-RG-C-9AAG7532,northeurope,Leonardo,Standard_D4_V3
+XC-S-ZW08576,Unismart App server,Europe,10.12.2.38,PROD,W23,DE-S-CH00123,DE-S-CH00123.DE.ABB.COM,EDMZ,69ef89a0-6365-4a18-a145-de6abb8b5ac5,ISEP01-RG-C-9AAG8787,northeurope,unismart123,Standard_D4_V3
+XC-S-ZW08580,Calitel & Calibra,Europe,10.12.12.132,PROD,W23,XELPG-S-CSSAP1P,XELPG-S-CSSAP1P.xe.abb.com,Intranet,69ef89a0-6365-4a18-a145-de6abb8b5ac5,ISEP01-RG-C-9AAG9874,northeurope,Calitel,Standard_D2_V3
+XC-S-ZW08577,Drivemart Web Server,Europe,10.12.2.39,PROD,W23,de-s-ch00151,de-s-ch00151.de.abb.com,EDMZ,69ef89a0-6365-4a18-a145-de6abb8b5ac5,ISEP01-RG-C-9AAG8873,northeurope,Test,Standard_E4_V3
+XC-S-ZW08579,Target Setting SCM Stage application and DB Server,Europe,10.12.4.216,STAGE,W15,xe-s-jedap01s,xe-s-jedap01s.xe.abb.com,Intranet,7637aa98-ee76-4ce1-832b-82c486a18285,ISET01-RG-C-9AAG020167,northeurope,TargetSCM,Standard_D16_V3
+XC-S-ZW08527,PCS2 application Web and DB Server,Europe,10.12.4.209,DEV,W15,xelpg-s-pcs2dev,xelpg-s-pcs2dev.xe.abb.com,Intranet,7637aa98-ee76-4ce1-832b-82c486a18285,ISET01-RG-C-9AAG7272,northeurope,PCS2DEVHTL,Standard_D2_V3
